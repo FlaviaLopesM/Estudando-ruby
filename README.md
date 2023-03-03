@@ -1,2 +1,2 @@
 # Estudando ruby
- Primeiro repositorio de ruby
+ Primeiro repositorio de ruby.
